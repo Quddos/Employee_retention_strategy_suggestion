@@ -6,8 +6,7 @@ Project Link: https://employeeretention.qudmeet.click/
 PWA application code: https://github.com/Quddos/employee
 
 The Employee Retention Prediction System enables HR professionals to make evidence-based workforce decisions by analyzing employee attributes and predicting their likelihood to stay or leave.
-<img width="1350" height="966" alt="image" src="https://github.com/user-attachments/assets/32239e2b-fa7c-4288-9f37-c2ef98721151" />
-
+<img width="748" height="855" alt="image" src="https://github.com/user-attachments/assets/dc0a6027-82d3-4b27-b65f-31b316e7a632" />
 It combines:
 
 🧩 AI-based predictive analytics
@@ -26,8 +25,7 @@ Through a clean and interactive dashboard, HR managers can input details such as
 
 📊 SHAP-based feature contribution visualization (why the model made its decision)
 
-<img width="748" height="855" alt="image" src="https://github.com/user-attachments/assets/dc0a6027-82d3-4b27-b65f-31b316e7a632" />
-
+<img width="1350" height="966" alt="image" src="https://github.com/user-attachments/assets/32239e2b-fa7c-4288-9f37-c2ef98721151" />
 
 🧰 Tech Stack
 Layer	Technology	Purpose
