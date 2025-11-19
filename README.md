@@ -2,6 +2,8 @@
 🧠 Employee Retention Prediction System (AI-Powered HRM)  Intelligent HR Decision Support System for predicting employee retention using Machine Learning, Explainable AI (SHAP), and a Progressive Web App (PWA) interface built with Next.js. Developed to empower HR departments with data-driven insights and actionable retention strategies.
 
 🚀 Overview
+Project Link: https://employee-seven-roan.vercel.app/
+PWA application code: https://github.com/Quddos/employee
 
 The Employee Retention Prediction System enables HR professionals to make evidence-based workforce decisions by analyzing employee attributes and predicting their likelihood to stay or leave.
 
